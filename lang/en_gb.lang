@@ -1,0 +1,18 @@
+domain_sso_title = Domain SSO
+domain_sso_settings = Settings
+domain_sso_help = Help
+domain_sso_enabled = Share the login across all domains
+domain_sso_enabled_notice = After logging into the backend you are automatically logged in on the other domains of this installation, too (preview, frontend edit links).
+domain_sso_hosts = Participating domains
+domain_sso_hosts_notice = No selection = all YRewrite domains. Only HTTPS domains take part.
+domain_sso_ttl = Ticket lifetime (seconds)
+domain_sso_allow_http = Allow without HTTPS (local development only)
+domain_sso_saved = Settings saved.
+domain_sso_status = Your sessions
+domain_sso_status_none = There is no group for your current session yet – it will be created on the next page view.
+domain_sso_col_domain = Domain
+domain_sso_col_activity = Last activity
+domain_sso_col_state = State
+domain_sso_state_active = logged in
+domain_sso_state_ended = ended
+domain_sso_no_domains = There are fewer than two participating domains – Domain SSO has no effect.

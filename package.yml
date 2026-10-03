@@ -1,0 +1,31 @@
+package: domain_sso
+version: '1.0.0-dev'
+author: 'Friends Of REDAXO'
+supportpage: https://github.com/FriendsOfREDAXO/domain_sso
+
+requires:
+    redaxo: ^5.15.0
+    php:
+        version: '>=8.1'
+    packages:
+        yrewrite: '>=2.10'
+
+page:
+    title: 'translate:domain_sso_title'
+    icon: rex-icon fa-key
+    perm: admin
+    subpages:
+        settings:
+            title: 'translate:domain_sso_settings'
+            icon: rex-icon fa-sliders
+        help:
+            title: 'translate:domain_sso_help'
+            icon: rex-icon fa-book
+            subPath: README.md
+            itemClass: pull-right
+
+default_config:
+    enabled: true
+    ttl: 60
+    hosts: []
+    allow_http: false

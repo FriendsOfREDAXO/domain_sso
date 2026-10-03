@@ -1,0 +1,18 @@
+domain_sso_title = Domain SSO
+domain_sso_settings = Einstellungen
+domain_sso_help = Hilfe
+domain_sso_enabled = Anmeldung auf allen Domains teilen
+domain_sso_enabled_notice = Nach dem Login im Backend ist man automatisch auch auf den anderen Domains dieser Installation angemeldet (Vorschau, Bearbeiten-Links im Frontend).
+domain_sso_hosts = Teilnehmende Domains
+domain_sso_hosts_notice = Keine Auswahl = alle YRewrite-Domains. Nur Domains mit HTTPS nehmen teil.
+domain_sso_ttl = Gültigkeit der Tickets (Sekunden)
+domain_sso_allow_http = Auch ohne HTTPS erlauben (nur für lokale Entwicklung)
+domain_sso_saved = Einstellungen gespeichert.
+domain_sso_status = Ihre Sitzungen
+domain_sso_status_none = Für Ihre aktuelle Sitzung besteht noch keine Gruppe – sie wird beim nächsten Seitenaufruf angelegt.
+domain_sso_col_domain = Domain
+domain_sso_col_activity = Letzte Aktivität
+domain_sso_col_state = Status
+domain_sso_state_active = angemeldet
+domain_sso_state_ended = beendet
+domain_sso_no_domains = Es gibt weniger als zwei teilnehmende Domains – Domain SSO ist ohne Wirkung.
