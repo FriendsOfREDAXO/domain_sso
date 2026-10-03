@@ -35,6 +35,16 @@ Unter **Domain SSO → Einstellungen** (nur Admins):
 
 Darunter zeigt **Ihre Sitzungen**, auf welchen Domains Sie gerade angemeldet sind.
 
+## Info Center
+
+Ist das AddOn [info_center](https://github.com/klxm/info_center) installiert, bringt Domain SSO dort ein Widget **Domains** mit – im Backend und im Frontend (für angemeldete Redakteure):
+
+- alle teilnehmenden Domains mit Link zur **Website** und zum **Backend** der jeweiligen Domain
+- grüner Punkt = dort bereits angemeldet; die aktuelle Domain ist markiert
+- Ein- und Ausblenden sowie die Reihenfolge wie bei jedem Widget in den Info-Center-Einstellungen
+
+Ohne info_center wird nichts davon geladen.
+
 ## Voraussetzungen
 
 - REDAXO ab 5.15, YRewrite ab 2.10, PHP ab 8.1
