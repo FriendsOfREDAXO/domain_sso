@@ -1,6 +1,6 @@
 # Changelog – Domain SSO
 
-## [1.0.0] – unveröffentlicht
+## [1.0.0] –
 
 ### Neu
 
