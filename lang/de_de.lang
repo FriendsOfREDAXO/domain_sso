@@ -16,3 +16,11 @@ domain_sso_col_state = Status
 domain_sso_state_active = angemeldet
 domain_sso_state_ended = beendet
 domain_sso_no_domains = Es gibt weniger als zwei teilnehmende Domains – Domain SSO ist ohne Wirkung.
+
+domain_sso_ic_title = Domains
+domain_sso_ic_current = aktuell
+domain_sso_ic_website = Website
+domain_sso_ic_backend = Backend
+domain_sso_ic_logged_in = angemeldet
+domain_sso_ic_not_yet = noch nicht angemeldet
+domain_sso_ic_hint = Noch nicht auf allen Domains angemeldet – ein Aufruf im Backend holt das automatisch nach.
